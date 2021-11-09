@@ -1,0 +1,58 @@
+Machine Learning Engineer,Cloud Engineer,Frontend Developer,Backend Developer,Data Scientist,Android Developer,iOS Developer,Network Engineer
+linear regression,aws,html,python,statistics,java,swift,ccna
+logistic regression,ec2,css,java,probability,kotlin,xcode,cisco packet tracker
+random forest,amazon redshift,js,sql,linear algebra,xml,objective-c,wireshark
+xgboost,s3,javascript,nodejs,python,android studio,objective c,red hatt
+svm,docker,react,expressjs,r,sql,,tcp/ip
+pca,kubernetes,reactjs,php,sql,android sdk,,dns
+decision trees,scala,jquery,ruby,spark,Material Design,,networking
+svd,teradata,angular,csharp,hadoop,flutter,,routing
+ensembe models,google big query,vue,django,power bi,json,,switching
+boltzman machine,aws lambda,bootstrap,spring,,,,ospf
+naīve bayes,aws emr,flutter,flutter,,,,vlan
+neural network,hive,,MySQL,,,,
+keras,hadoop,,,,,,
+theano,devops,,,,,,
+face detection,,,,,,,
+neural networks,,,,,,,
+convolutional neutral network (cnn),,,,,,,
+recurrent neural network (rnn),,,,,,,
+object detection,,,,,,,
+yolo,,,,,,,
+gpu,,,,,,,
+cuda,,,,,,,
+tensorflow,,,,,,,
+lstm,,,,,,,
+gan,,,,,,,
+opencv,,,,,,,
+python,,,,,,,
+flask,,,,,,,
+django,,,,,,,
+pandas,,,,,,,
+numpy,,,,,,,
+scikitlearn,,,,,,,
+sklearn,,,,,,,
+matplotlib,,,,,,,
+scipy,,,,,,,
+bokeh,,,,,,,
+statsmodel,,,,,,,
+nlp,,,,,,,
+natural language processing,,,,,,,
+topic modeling,,,,,,,
+lda,,,,,,,
+named entity recognition,,,,,,,
+pos tagging,,,,,,,
+word2vec,,,,,,,
+word embedding,,,,,,,
+Isi,,,,,,,
+spacy,,,,,,,
+gensim,,,,,,,
+nltk,,,,,,,
+nmf,,,,,,,
+dec2vec,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+bert,,,,,,,
+sentiment analysis,,,,,,,
+chat bot,,,,,,,
