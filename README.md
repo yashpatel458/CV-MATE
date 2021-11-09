@@ -1,4 +1,4 @@
-# CV-Mate
+# CV-MATE
 
 Our main aim is to design an program which will screen all the resumes according to the job description and provide us useful data which will be visualized with the use of data visualization tools. This will significantly reduce the processing time and make recruitment process much easier. 
 
